@@ -1,0 +1,59 @@
+{
+
+  "token": "NjY5MTMzOTAzOTkwMDk1OTEz.Xibjqw.S28QfeHuyZOofxgZ5o56FaTfbrY",
+  "prefix": "!",
+
+  "host": "IP",
+  "user": "login-do-bazt",
+  "password": "wklejtutaj",
+  "database": "essentialmode",
+
+  "wlcommand": "dodaj",
+  "guildidwl": "ID-kanalu",
+  "kanalwl": "ID-kanalu",
+
+  "kanalst": "ID-kanalu",
+  "wiadomoscst": "IDwiadomosci",
+  "ipst": "145.239.205.202:30160",
+  "maksst": "32",
+  "kolorst": "0, 255, 0",
+  "nazwafoost": "LegacyRP - Polska",
+  "nazwaglst": "LegacyRP - Polska",
+  "url": "http://145.239.205.202:30160/players.json",
+
+
+
+  "kategoriatic": "",
+  "roleidtic": "",
+  "komendatic": "",
+  "logitic": "",
+
+  "roladev": "zarząd",
+  "iddev": "664155643514585088",
+  "komendadev": "dev",
+
+  "rolehex": "rola-z-discorda",
+  "komendahex": "hex",
+
+  "rolaogl": "rola-z-discorda",
+  "idogl": "ID-kanalu",
+  "komendaogl": "ogloszenie",
+
+  "rolapoll": "rola-z-discorda",
+  "komendapoll": "poll",
+
+  "kanalprop": "Turysta",
+  "komendaprop": "propozycja",
+
+  "rolasay": "rola-z-discorda",
+  "komendasay": "say",
+
+  "kanalstatuswiad": "status-serwera",
+  "sloty": "32",
+
+  "rolars": "zarząd",
+  "komendars": "restart"
+
+
+
+}
